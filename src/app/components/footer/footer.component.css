@@ -1,23 +1,11 @@
-html,
-body {
-  margin: 0;
-  padding: 0;
-  height: 100%;
-}
-#wrapper {
-  min-height: 100%;
-  position: relative;
-}
-#header {
-  background: #ededed;
-  padding: 10px;
-}
-#content {
-  padding-bottom: 100px;
+.footer-content {
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+  color: aliceblue;
   /* Height of the footer element */
 }
-#footer {
-  background: #ffab62;
+.footer {
+  background: #293c79;
   position: absolute;
   padding-top: 35px;
   width: 100%;

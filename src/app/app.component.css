@@ -6,8 +6,8 @@ body {
 }
 .wrapper {
     min-height: 100vh;
-  position: relative;
-
+    position: relative;
+    background-color: rgb(227, 228, 231);
 }
 
 .content {
@@ -17,7 +17,7 @@ body {
 .footer {
     position: absolute;
     width: 100%;
-    color: red;
+    color: rgb(42, 63, 121);
     height: 100px;
     bottom: 0px;
     left: 0px;
